@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/alekcs_/it-school-cpp-course/main'
+relocations:     []
+...
